@@ -19,7 +19,6 @@ export default class HomeView extends Vue {}
 
 <style scoped>
 .logo {
-  margin-top: 100px;
   width: 20%;
 }
 
